@@ -149,8 +149,8 @@ public class NotesList extends ListActivity {
      * @return True, always. The menu should be displayed.
      */
      private static final String[] PROJECTION = new String[] {
-            NotePad.Notes._ID, // 0
-            NotePad.Notes.COLUMN_NAME_TITLE, // 1
+            NotePad.Notes._ID, 
+            NotePad.Notes.COLUMN_NAME_TITLE, 
             NotePad.Notes.COLUMN_NAME_MODIFICATION_DATE,//添加修改时间
     };
     @Override
