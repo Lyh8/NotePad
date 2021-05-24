@@ -129,4 +129,4 @@ int[] viewIDs = { android.R.id.text1 ,R.id.time };//添加修改时间，利用�
 
 **4.显示效果**
 
-![](screenshot\sreenshot.jpg)
+![看不见图片在screenshot下可看到](\screenshot\sreenshot.jpg)
